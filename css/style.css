@@ -1,0 +1,26 @@
+.divcenter {
+    margin: auto;
+}
+
+.login {
+    margin-top: 5%;
+    width: 30%;
+    background-color: white;
+    border-radius: 30px;
+    border: 2px solid lightgray;
+    padding: 30px;
+}
+
+.card {
+    display: inline-block;
+}
+
+
+.profilediv {
+    width: 250px;
+    height: 200px;
+    background-color: red;
+    margin: 30px;
+    display: inline-block;
+}
+
